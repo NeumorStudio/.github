@@ -72,6 +72,6 @@ Metodología asistida por IA con supervisión de ingeniería: cada cambio pasa p
 
 **NeumorStudio** · Estudio de producto digital
 
-[neumorstudio.com](https://www.neumorstudio.com) · [Panel de clientes](https://admin.neumorstudio.com)
+[neumorstudio.com](https://www.neumorstudio.com)
 
 </div>
