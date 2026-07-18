@@ -5,7 +5,6 @@
 <br/><br/>
 
 [![Web](https://img.shields.io/badge/neumorstudio.com-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.neumorstudio.com)
-[![Panel de clientes](https://img.shields.io/badge/Panel_de_clientes-0F141A?style=for-the-badge&logo=vercel&logoColor=white)](https://admin.neumorstudio.com)
 
 </div>
 
