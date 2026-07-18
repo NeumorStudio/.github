@@ -4,8 +4,7 @@
 
 **Estudio de producto digital para negocios locales.**
 
-[Web](https://www.neumorstudio.com) · [Panel de clientes](https://admin.neumorstudio.com)
-
+[Web](https://www.neumorstudio.com)
 </div>
 
 ---
