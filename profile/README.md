@@ -16,28 +16,11 @@ Diseñamos y operamos software que resuelve el día a día de peluquerías, rest
 
 ## 🧩 Productos
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Neumor Plantillas
-
-Plataforma multi-tenant de sitios web por vertical — salón, restaurante, fitness y tienda — con panel de administración, reservas, presupuestos y notificaciones.
-
-[`neumor-plantillas`](https://github.com/NeumorStudio/neumor-plantillas)
-
-</td>
-<td width="50%" valign="top">
-
-### ElBooksyKiller
+### Salonio
 
 Sistema de reservas online para peluquerías: agenda por profesional, pagos con Stripe y confirmaciones automáticas por email.
 
 [`elbooksykiller`](https://github.com/NeumorStudio/elbooksykiller)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
