@@ -22,6 +22,12 @@ Sistema de reservas online para peluquerías: agenda por profesional, pagos con 
 
 [`elbooksykiller`](https://github.com/NeumorStudio/elbooksykiller)
 
+### González-Regalado Gourmet
+
+Rediseño y rebranding de la web de una casa española de selección gourmet para Travel Retail y distribución internacional: 7 idiomas, catálogo por categorías y las URLs de la web anterior conservadas.
+
+[`regalado-gourmet`](https://github.com/NeumorStudio/regalado-gourmet)
+
 <br/>
 
 ## ⚙️ Cómo trabajamos
