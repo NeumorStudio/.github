@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="NeumorStudio — Estudio de producto digital" width="100%" />
+<img src="assets/banner-v2.png" alt="NeumorStudio — Estudio de producto digital" width="100%" />
 
 <br/><br/>
 
